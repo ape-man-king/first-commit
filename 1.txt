@@ -1,0 +1,154 @@
+    1  get version
+    2  get version
+    3  get version
+    4  get version
+    5  git config -- global user.name
+    6  git config -- global user.email "905916118@qq.com"
+    7  git config -- global 905916118@qq.com
+    8  git config -- global user.name ape-man-king
+    9  git config --global -l
+   10  get version
+   11  git version
+   12  git config --global user.name ape-man-king
+   13  git config --global user.email 905916118@qq.com
+   14  git config --global -1
+   15  git config --global -l
+   16  git clone https://git.coding.net/ape-man/201703JS.git
+   17  cd 201703JS
+   18  git status
+   19  git add .
+   20  git commit -am "练习git"
+   21  git status
+   22  git push
+   23  git status
+   24  pwd
+   25  cd f/
+   26  cd /f
+   27  cd 201703JS/
+   28  git status
+   29  git config --global -l
+   30  git clone https://git.coding.net/ape-man/201703JS.git
+   31  status
+   32  git status
+   33  pwd
+   34  cd/f
+   35  cd //f
+   36  cd /f
+   37  cd 20170405Git/
+   38  cd 201703JS/
+   39  git status
+   40  git add .
+   41  git commit -am "练习git"
+   42  git status
+   43  touch 1.txt
+   44  git status
+   45  touch 2.txt
+   46  git status
+   47  git commit -am "第二次上传"
+   48  git status
+   49  git add .
+   50  git commit -am "第二次上传"
+   51  git status
+   52  git push origin master
+   53  git push origin master
+   54  git push origin master
+   55  git push origin masterape-man
+   56  x435ang9876@#*
+   57  git push origin master
+   58  git push origin master
+   59  git status
+   60  git push
+   61  git push origin master
+   62  git remote -v
+   63  git clone https://github.com/MrZxSiye/201703JS.git
+   64  cd 201703JS/
+   65  touch 111.txt
+   66  git add .
+   67  git commit -am "练习GitHub"
+   68  git config --global -l
+   69  git push origin master
+   70  wq
+   71  git config --global -l
+   72  git push origin master
+   73  git push origin master
+   74  git config --global -l
+   75  git push origin master
+   76  git config --global -1
+   77  git config --global -l
+   78  git clone https://github.com/ape-man-king/201703JS.git
+   79  cd 201703JS/
+   80  touch 1111.txt
+   81  git add .
+   82  git commit -am "练习GitHub"
+   83  git status
+   84  git push origin master
+   85  git remote -v
+   86  git clone https://github.com/zhufengpeixun/201703zsJs.git
+   87  git config --list
+   88  git init
+   89  ls -a
+   90  ls
+   91  cls
+   92  touch index.txt
+   93  cat index.txt
+   94  vi index.txt
+   95  vi index.txt
+   96  cat index.txt
+   97  git status
+   98  git add .
+   99  git add -A
+  100  git status
+  101  git rm --cached index.txt
+  102  git status
+  103  git add -A
+  104  git status
+  105  git commit -m
+  106  git commit
+  107  git log
+  108  git status
+  109  g
+  110  cat index.txt
+  111  clear
+  112  git reflog
+  113  cat index.xx
+  114  cat index.txt
+  115  vi index.txt
+  116  git checkout .
+  117  cat index.txt
+  118  vi index.txt
+  119  cat index.txt
+  120  git checkout .
+  121  cat index.txt
+  122  git reflog
+  123  git reset --hard 08804fd
+  124  cat index.txt
+  125  vi index.txt
+  126  cat index.txt
+  127  git reset --hard 08804fd
+  128  cat index.txt
+  129  clear
+  130  git branch
+  131  ls
+  132  ls -a
+  133  git checkout -b dev
+  134  vi index.js
+  135  git commit -a -m 'beautify'
+  136  git status
+  137  git add index.js
+  138  git commit -m 'xuliang'
+  139  cat index.js
+  140  clear
+  141  git checkout master
+  142  cat index.js
+  143  vi index.js
+  144  git commit -a -m 'hansome'
+  145  git add index.js
+  146  get version
+  147  git commit -m 'handsome'
+  148  clear
+  149  cat index.js
+  150  git merge dev
+  151  git commit -a -m
+  152  git commit -a -m 'result'
+  153  git log
+  154  history > 1.txt
